@@ -90,19 +90,30 @@
 //between 1 and 100
 //between 1930 and 1950
 
-let first = Math.round(Math.random() * 10);
-let li1 = document.getElementById("li-1");
-li1.textContent = first;
+//let first = Math.round(Math.random() * 10);
+//let li1 = document.getElementById("li-1");
+//li1.textContent = first;
+//
+//let second = Math.round(Math.random() * 100);
+//let li2 = document.getElementById("li-2");
+//li2.textContent = second;
+//
+//let third = Math.round(Math.random() * 100);
+//let li3 = document.getElementById("li-3");
+//li3.textContent = third;
 
-let second = Math.round(Math.random() * 100);
-let li2 = document.getElementById("li-2");
-li2.textContent = second;
+// Music A 440 Hz 1 octave is double the frequency tempered piano A' 880 Hz Calculate and console.log the frequency each of the 12 notes between A and A' Hint: the notes are NOT in a linear scale, but in a geometric scale
 
-let third = Math.round(Math.random() * 100);
-let li3 = document.getElementById("li-3");
-li3.textContent = third;
-
-
+//function freq() {
+//    let A = 440;
+//    let notes = ["A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A"];
+//         for (i = 0; i < notes.length; i++) {
+//             let formula = A * Math.pow(2, (i+1) / 12);
+//             let frequency = formula;
+//             console.log("Frequency of " + notes[i] + " is " + frequency);
+//         }
+//}
+//freq();
 
 
 
