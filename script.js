@@ -58,31 +58,30 @@
 //let answer = prompt("What do you want from me?");
 //alert("WHADDAYA MEAN " + answer.toUpperCase() + "?!? YOU'RE FIRED!!");
 
-
-// Table of contents. Here’s something for you to do in order to play around more with center, ljust, and rjust: write a program that will display a table of contents so that it looks like this:
+//Table of contents. Here’s something for you to do in order to play around more with center, ljust, and rjust: write a program that will display a table of contents so that it looks like this:
 //Table of Contents
 //
-//Chapter 1: Getting Started page 1 Chapter 2: Numbers page 9 Chapter 3: Letters page 13
+//Chapter 1: Getting Started page 1 
+//Chapter 2: Numbers page 9 
+//Chapter 3: Letters page 13
 //
 //Optional: in JS we may prefer to 'print' these to the HTML file itself rather than the console.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//
+//let mytable = ["Chapter 1: Getting Started", "page 1", "Chapter 2: Numbers", "page 9", "Chapter 3: Letters", "page 13"];
+//
+//let td_1 = document.getElementById("td-1");
+//let pg_1 = document.getElementById("pg-1");
+//let td_2 = document.getElementById("td-2");
+//let pg_2 = document.getElementById("pg-2");
+//let td_3 = document.getElementById("td-3");
+//let pg_3 = document.getElementById("pg-3");
+//
+//td_1.textContent = mytable[0];
+//pg_1.textContent = mytable[1];
+//td_2.textContent = mytable[2];
+//pg_2.textContent = mytable[3];
+//td_3.textContent = mytable[4];
+//pg_3.textContent = mytable[5];
 
 
 // Generate a random number
