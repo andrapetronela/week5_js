@@ -206,3 +206,22 @@
 //// dividing by 24 hours / 60min
 //let earthAnglePerMinute = fullCircle / 24 / 60;
 //console.log(earthAnglePerMinute / degreesPerDay);
+
+
+//Building and sorting an array. Write the program that asks us to type as many words as we want (one word per line, continuing until we just press Enter on an empty line) and then repeats the words back to us in alphabetical order. Make sure to test your program thoroughly; for example, does hitting Enter on an empty line always exit your program? Even on the first line? And the second?
+//Hint: There’s a lovely array method that will give you a sorted version of an array: sorted(). Use it!
+//
+
+//let answer = [];
+//let user = "";
+//let only_enter = false;
+//while (!only_enter) {
+//    let word = prompt("Please add an item.");
+//    if (!word) {
+//        only_enter = true;
+//    } else {
+//        answer.push(word);
+//    }
+//   
+//}
+// console.log(answer.sort());
