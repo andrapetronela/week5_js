@@ -179,3 +179,22 @@
 //}
 
 
+//Table of contents. Write a table of contents program here. Start the program with a list holding all of the information for your table of contents (chapter names, page numbers, and so on). Then print out the information from the list in a beautifully formatted table of contents. Use string formatting such as left align, right align, center.
+
+//
+//let mytable = ["Chapter 1: HTML5", "page 1", "Chapter 2: CSS3", "page 77", "Chapter 3: JavaScript", "page 158", "Chapter 4: Python", "page 245"];
+//
+//let td_1 = document.getElementById("td-1");
+//let pg_1 = document.getElementById("pg-1");
+//let td_2 = document.getElementById("td-2");
+//let pg_2 = document.getElementById("pg-2");
+//let td_3 = document.getElementById("td-3");
+//let pg_3 = document.getElementById("pg-3");
+//
+//td_1.textContent = mytable[0];
+//pg_1.textContent = mytable[1];
+//td_2.textContent = mytable[2];
+//pg_2.textContent = mytable[3];
+//td_3.textContent = mytable[4];
+//pg_3.textContent = mytable[5];
+//
