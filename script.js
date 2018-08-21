@@ -197,3 +197,12 @@
 //td_3.textContent = mytable[4];
 //pg_3.textContent = mytable[5];
 //
+
+// Planets Calculate and console log how many 'minutes' the Moon travels in a day. Hint: first calculate how many degrees the Moons travels in the sky when the Earth returns to the same position during its daily rotation.
+//
+//let fullCircle = 360;
+//let daysMoon = 29.5;
+//let degreesPerDay = fullCircle / daysMoon;
+//// dividing by 24 hours / 60min
+//let earthAnglePerMinute = fullCircle / 24 / 60;
+//console.log(earthAnglePerMinute / degreesPerDay);
